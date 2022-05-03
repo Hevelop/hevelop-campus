@@ -3,3 +3,4 @@ git push per caricare le modifiche sul server
 git commit -m "nome file" per committare le modifiche locali
 git checkout nome branch per cambiare branch
 git add e nome file per aggiungere le modifiche in locale
+Qualcosa
