@@ -1,5 +1,6 @@
 {
   "require": {
-    "monolog/monolog" : "^1"
+    "monolog/monolog" : "^1",
+    "phpoffice/phpspreadsheet": "1.23.0"
   }
 }
