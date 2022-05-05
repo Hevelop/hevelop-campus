@@ -1,0 +1,26 @@
+* {
+    background-color: darkgoldenrod;
+    margin: auto;
+    font-family: "Baskerville Old Face";
+    font-size: medium;
+}
+
+}
+footer {
+    background-color: darkgoldenrod;
+}
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    }
+#colonna1 {
+    padding: 8px;
+    color: darkblue;
+}
+
+#colonna2 {
+    padding: 8px;
+    color: darkblue;
+}
