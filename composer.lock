@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "18d573a3ef2dcd460fa78a2eceeb9631",
+    "content-hash": "a523849af1c7c2807c8b0887b1d7e447",
     "packages": [
         {
             "name": "ezyang/htmlpurifier",
@@ -611,6 +611,40 @@
             "time": "2021-10-29T13:22:09+00:00"
         },
         {
+            "name": "seld/slippy",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Seldaek/slippy.git",
+                "reference": "d0fc9716e47a11714820a023cc84307f83f87fa4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Seldaek/slippy/zipball/d0fc9716e47a11714820a023cc84307f83f87fa4",
+                "reference": "d0fc9716e47a11714820a023cc84307f83f87fa4",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jordi Boggiano",
+                    "email": "j.boggiano@seld.be",
+                    "homepage": "http://seld.be"
+                }
+            ],
+            "description": "HTML Slides Engine",
+            "support": {
+                "issues": "https://github.com/Seldaek/slippy/issues",
+                "source": "https://github.com/Seldaek/slippy/tree/master"
+            },
+            "time": "2018-06-06T10:29:22+00:00"
+        },
+        {
             "name": "symfony/polyfill-mbstring",
             "version": "v1.25.0",
             "source": {
@@ -697,7 +731,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "seld/slippy": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
