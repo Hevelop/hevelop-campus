@@ -3,6 +3,6 @@
     "phpoffice/phpspreadsheet": "1.23.0",
     "seld/slippy": "dev-master",
     "symfony/symfony": "1.*",
-    "seld/php-console\n" "^1."
+    "seld/php-console": "^1."
   }
 }
