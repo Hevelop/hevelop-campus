@@ -6,28 +6,21 @@
 }
 
 }
+footer {
+    background-color: darkgoldenrod;
+}
 #container {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin: 0;
-    padding: 0;
     width: 100%;
     }
 #colonna1 {
-    display: flex;
-    width: 100%;
-    margin: 0;
-    padding: 5px
-    background-color: chocolate;
+    padding: 8px;
     color: darkblue;
 }
 
 #colonna2 {
-    display: flex
-    width: 100%;
-    margin: 0;
-    padding: 5px
-    background-color: burlywood;
+    padding: 8px;
     color: darkblue;
 }
