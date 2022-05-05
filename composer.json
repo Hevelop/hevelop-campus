@@ -2,6 +2,6 @@
   "require": {
     "phpoffice/phpspreadsheet": "1.23.0",
     "seld/slippy": "dev-master",
-    "symfony/symfony": "1.*"
+    "symfony/symfony": "6.0.8"
   }
 }
