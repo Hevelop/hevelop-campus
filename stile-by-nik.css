@@ -8,3 +8,25 @@ body {
 header {
     background-color: darkgoldenrod;
 }
+#container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    }
+#colonna1 {
+    width: 100%;
+    margin: 0;
+    float: left;
+    padding: 5px
+    background-color: chocolate;
+    color: darkblue;
+}
+
+#colonna2 {
+    width: 100%;
+    margin: 0;
+    float: right;
+    padding: 5px
+    background-color: burlywood;
+    color: darkblue;
+}
