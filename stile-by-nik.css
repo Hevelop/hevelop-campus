@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+    margin: auto;
+    font-family: "Baskerville Old Face";
+    font-size: medium;
+}
+
+header {
+    background-color: darkgoldenrod;
+}
