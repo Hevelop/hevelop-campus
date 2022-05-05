@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c187f95ac1852e990167dc46333ef072",
+    "content-hash": "ee0c3d6c0df4fd54049dcfe561d29266",
     "packages": [
         {
             "name": "doctrine/collections",
@@ -1279,6 +1279,53 @@
                 "source": "https://github.com/php-fig/simple-cache/tree/2.0.0"
             },
             "time": "2021-10-29T13:22:09+00:00"
+        },
+        {
+            "name": "seld/php-console",
+            "version": "1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Seldaek/php-console.git",
+                "reference": "42f4a6530356114bcb1bda321e17ec34806c4977"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Seldaek/php-console/zipball/42f4a6530356114bcb1bda321e17ec34806c4977",
+                "reference": "42f4a6530356114bcb1bda321e17ec34806c4977",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "project",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.3.x-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jordi Boggiano",
+                    "email": "j.boggiano@seld.be",
+                    "homepage": "http://seld.be",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A console to quickly try and run PHP code in your browser",
+            "homepage": "http://github.com/Seldaek/php-console",
+            "keywords": [
+                "console",
+                "php"
+            ],
+            "support": {
+                "issues": "https://github.com/Seldaek/php-console/issues",
+                "source": "https://github.com/Seldaek/php-console/tree/master"
+            },
+            "time": "2013-07-03T07:50:32+00:00"
         },
         {
             "name": "seld/slippy",
